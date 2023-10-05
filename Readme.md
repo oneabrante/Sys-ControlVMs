@@ -5,5 +5,16 @@
 
 <hr>
 
-<h4 style="text-align:center;">v2.0 Preview</h4>
+<h4 style="text-align:center;">v2.0</h4>
 <p align="center"><img src="./viewer-flow/v2.0.gif" alt="Flow-v2.0" style="max-width:100%"></p>
+
+<hr>
+
+Obs:
+This management needs a virbr0 interface, if you don't have it, you can start it with the following command:
+    <br>
+```bash
+sudo virsh net-define /etc/libvirt/qemu/networks/autostart/default.xml
+sudo virsh net-start default
+```
+    

@@ -5,7 +5,7 @@ import re
 
 #   Sys-ControlVMs - VMs management with libvirt
 #   
-#   S-CVMs.py - Script para o funcionamento do Sys-ControlVMs
+#   S-CVMsv1.py - Script para o funcionamento do Sys-ControlVMs
 #   
 #
 #   Website:        github.com/abrantedevops
@@ -18,7 +18,7 @@ import re
 #   Este script pode ser chamado de maneira normal usando python3 e com o sudo 
 #
 #   Exemplo:
-#   $ sudo python3 S-CVMs.py
+#   $ sudo python3 S-CVMsv1.py
 #
 # -----------------------------------------------------------------------------
 #
