@@ -6,7 +6,7 @@
 <hr>
 
 <h4 style="text-align:center;">v2.0</h4>
-<p align="center"><img src="./viewer-flow/v2.0.gif" alt="Flow-v2.0" style="max-width:100%"></p>
+<p align="center"><img src="./viewer-flow/lv2.0.gif" alt="Flow-v2.0" style="max-width:100%"></p>
 
 <hr>
 
